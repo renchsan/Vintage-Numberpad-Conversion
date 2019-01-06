@@ -1,4 +1,4 @@
-# Vintage-Numberpas-Conversion
+# Vintage-Numberpad-Conversion
 Conversion of a vintage Mac keypad to USB compatability with Windows computers
 
 Creates a Keypad matrix of 22 keys, used with a Arduino Pro Micro (leonardo)  
