@@ -7,7 +7,7 @@ Default key presses are mostly stock functionality
 Clear has been changed to F11 (Mac Show Desktop Hotkey)
 
 Hold Num Lock key for secondary mode  
-Secondary Mode:  
+#Secondary Mode:  
 =, /, * changes to CUT, COPY, PASTE  
 +, - changes to Vol Up/Down  
 7, 8, 9 - changes to F13, F14, F15  
