@@ -1,6 +1,8 @@
 # Vintage-Numberpad-Conversion
 Conversion of a vintage Mac keypad to USB compatability with Windows computers
 
+![numpad](https://res.cloudinary.com/dvryuqlqn/image/upload/v1547863756/renchtech/projects/keypad/usbControllers-13.jpg)
+
 Creates a Keypad matrix of 22 keys, used with a Arduino Pro Micro (leonardo)  
 Features two LEDs, LED #1 Indicates default (OFF) or secondary (ON) modes, LED#2 pulses  
 Default key presses are mostly stock functionality  
